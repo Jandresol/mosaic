@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
-import StoryCard from './StoryCard';
+// import StoryCard from './StoryCard';
 import '../styles/MapView.css';
 
 const MapView = ({ 

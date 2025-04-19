@@ -3,8 +3,8 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Welcome from './components/Welcome';
 import Header from './components/Header';
 import MapView from './components/MapView';
-import StoryModal from './components/StoryModal';
-import ContributeModal from './components/ContributeModal';
+// import StoryModal from './components/StoryModal';
+// import ContributeModal from './components/ContributeModal';
 import { sampleStories } from './data/sampleStories';
 import './App.css';
 
